@@ -1,5 +1,5 @@
 # Product-Page
-# Wrangler Premium T-Shirt Product Page
+# Product Page
 
 This project is a **modern and responsive product page**. The page allows users to explore the product, select various options such as size and color, and add the product to their cart. It is designed with a clean and user-friendly interface, optimized for both desktop and mobile devices.
 
@@ -21,5 +21,5 @@ This project is a **modern and responsive product page**. The page allows users 
 ---
 
 ## Live Demo
-- You can view the live version of the product page by visiting [Product Page Demo](https://yourgithubusername.github.io/repositoryname/).
+- You can view the live version of the product page by visiting [Product Page Demo](https://yahyanawabi.github.io/Product-Page/).
 
